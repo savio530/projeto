@@ -9,4 +9,6 @@ int main(){
    
    if(numero % 2 == 0
      printf("0 %d e par!", numero);
+     
+   return 0;
 }	
